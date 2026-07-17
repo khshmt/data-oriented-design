@@ -85,7 +85,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [A Practical Guide To Applying Data-Oriented Design - Q&A](https://vimeo.com/649016743) - Andrew Kelley
 * [Embedded Systems: Marketable Skills & Intro To Data-Oriented Design Western Michigan University IEEE](https://www.youtube.com/watch?v=YlhA2Y-qpUA) - James Novorita
 * [Pitfalls of Object Oriented Programming, Revisited (TGC 2017)](https://www.youtube.com/watch?v=VAT9E-M-PoE) - Tony Albrecht
-* [Path Tracing Three Ways: A Study of C++ Style (CppCon 2019)](https://youtu.be/HG6c4Kwbv4I?si=B6pU2ijeiiLiLbgl) - Matt Godbolt
+* [Path Tracing Three Ways: A Study of C++ Style (CppCon 2019)](https://youtu.be/HG6c4Kwbv4I?si=JERouuRTLgvk8r3u) - Matt Godbolt
 
 ## Other
 
